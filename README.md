@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Praseed, a passionate data analyst with a love for problem-solving. My journey into the world of programming started in college.
+I'm Praseed, a passionate python developer with a love for problem-solving. My journey into the world of programming started in college.
 
 🔭 I’m currently learning python language  that aims to simplify team collaboration through real-time communication and task management.
 
